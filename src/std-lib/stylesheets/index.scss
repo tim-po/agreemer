@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Golos";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../../../public/fonts/Golos-Text/Golos-Text_Regular.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: "Golos";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../../../public/fonts/Golos-Text/Golos-Text_Medium.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: "Golos";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../../../public/fonts/Golos-Text/Golos-Text_SemiBold.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: "Golos";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../../../public/fonts/Golos-Text/Golos-Text_Bold.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: "Golos";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('../../../public/fonts/Golos-Text/Golos-Text_Black.ttf') format('opentype');
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin: 0;
+
+}
+
+
+button {
+  outline: none !important;
+  cursor: pointer;
+  border: none;
+  background: none;
+  text-decoration: none;
+}
+
+
+a button:hover {
+  text-decoration: none;
+}

@@ -1,0 +1,7 @@
+version: '3'
+services:
+  react-app:
+    container_name: loot-gem-front
+    build: .
+    ports:
+      - "80:80"
