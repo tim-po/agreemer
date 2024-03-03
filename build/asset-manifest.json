@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8425e965.css",
+    "main.js": "/static/js/main.41da7115.js",
+    "static/media/iphone.svg": "/static/media/iphone.b1e1d64e80582536ecb4742951957151.svg",
+    "static/media/Golos-Text_Medium.ttf": "/static/media/Golos-Text_Medium.5665f65e68980e80b1e4.ttf",
+    "static/media/Golos-Text_SemiBold.ttf": "/static/media/Golos-Text_SemiBold.c8cfbf81387734a4e2f0.ttf",
+    "static/media/Golos-Text_Bold.ttf": "/static/media/Golos-Text_Bold.a8adfb2e044d27baf0e8.ttf",
+    "static/media/Golos-Text_Black.ttf": "/static/media/Golos-Text_Black.af5b81f69385af06ef92.ttf",
+    "static/media/Golos-Text_Regular.ttf": "/static/media/Golos-Text_Regular.e504b5d9f251f7c61708.ttf",
+    "static/media/ai.svg": "/static/media/ai.14e95ae2852efdccec2afeb3191c3e1b.svg",
+    "static/media/legal.svg": "/static/media/legal.13e0925b25a12880f724814015540331.svg",
+    "static/media/features.svg": "/static/media/features.e44e81061c840003c14985faa08cc2cf.svg",
+    "index.html": "/index.html",
+    "static/media/decorationElips.svg": "/static/media/decorationElips.7c5fca0a199603cb4656d2a02a556bd5.svg",
+    "main.8425e965.css.map": "/static/css/main.8425e965.css.map",
+    "main.41da7115.js.map": "/static/js/main.41da7115.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8425e965.css",
+    "static/js/main.41da7115.js"
+  ]
+}
