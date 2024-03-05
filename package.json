@@ -2,6 +2,7 @@
   "name": "loot-gem-front",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tim-po.github.io/agreemer/",
   "dependencies": {
     "@amplitude/analytics-browser": "^2.0.0",
     "axios": "^1.1.3",
