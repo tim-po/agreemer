@@ -8,15 +8,6 @@ WORKDIR /app
 # Step 3: Copy package.json and package-lock.json (or yarn.lock)
 COPY package*.json ./
 
-# Step 4: Install dependencies
-RUN npm install --legacy-peer-deps
-
-# Step 5: Copy the rest of your app's source code
-COPY . .
-
-# Step 6: Build your app
-RUN npm run build
-
 # Step 7: Use nginx to serve the app
 FROM nginx:alpine
 
