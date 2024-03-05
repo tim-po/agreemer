@@ -7,6 +7,7 @@ WORKDIR /app
 
 # Step 3: Copy package.json and package-lock.json (or yarn.lock)
 COPY package*.json ./
+COPY build ./build
 
 # Step 7: Use nginx to serve the app
 FROM nginx:alpine
